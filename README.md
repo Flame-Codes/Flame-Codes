@@ -35,3 +35,15 @@
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+
+
+## 📊 My Github Stats
+
+  <br/>
+      <a href="https://github.com/Naim75o/github-readme-stats"><img alt="FLAME NAIM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Naim75o&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/Naim75o/github-readme-stats"><img alt="FLAME NAIM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naim75o&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+          <br/>
+            <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+            
+
