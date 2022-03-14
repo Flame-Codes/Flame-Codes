@@ -1,6 +1,5 @@
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m am a Student Of  **[Government Science College](https://gsctd.edu.bd/)**
 - 🌱 I’m currently learning **Python , C++ , Java.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[Facebook](https://www.facebook.com/Naim.Vau80)**
