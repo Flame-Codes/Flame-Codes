@@ -688,7 +688,7 @@ def crack_select():
 	print("")
 	linex()
 	print("")
-	print("\033[92;1m FLAME NAIM HACKING HAS BEEN COMPLETED")
+	print("\033[92;1m ALAMIN MAHAMUD HACKING HAS BEEN COMPLETED")
 	print("\033[93;1m TOTAL \033[92;1mOK\033[93;1m/\033[91;1mCP: "+str(len(oks))+"/"+str(len(cps)))
 	print("")
 	linex()
