@@ -1,35 +1,17 @@
-# Portfolio
+# Professional Portfolio
 
-## Overview
-This portfolio showcases all public repositories, skills, and contact information for Flame-Codes.
+Welcome to my professional portfolio! Here, you'll find a showcase of my viral repositories, animations, and modern design projects.
 
-## Public Repositories
+## Viral Repositories
+- [Repository 1](link-to-repo-1) - Brief description of what makes it viral.
+- [Repository 2](link-to-repo-2) - Brief description of what makes it viral.
 
-1. **Repository Name 1**  
-   - Description: Brief description of repository 1.  
-   - Technologies: Tech stack used in repository 1.  
+## Animations
+- [Animation Project 1](link-to-animation-1) - Description of the project.
+- [Animation Project 2](link-to-animation-2) - Description of the project.
 
-2. **Repository Name 2**  
-   - Description: Brief description of repository 2.  
-   - Technologies: Tech stack used in repository 2.  
+## Modern Design
+- [Design Project 1](link-to-design-1) - Description of the design.
+- [Design Project 2](link-to-design-2) - Description of the design.
 
-3. **Repository Name 3**  
-   - Description: Brief description of repository 3.  
-   - Technologies: Tech stack used in repository 3.  
-
-(Include more repositories as necessary)
-
-## Skills
-- **Programming Languages:**  
-  - Python, JavaScript, Java, etc.
-- **Frameworks:**  
-  - React, Django, Flask, etc.
-- **Tools & Technologies:**  
-  - Git, Docker, Jenkins, etc.
-
-## Contact Information
-- **Email:** your_email@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- **GitHub:** [Flame-Codes GitHub](https://github.com/Flame-Codes) 
-
-Feel free to reach out if you have any questions or want to collaborate!
+Feel free to explore and reach out for collaboration or inquiries!
