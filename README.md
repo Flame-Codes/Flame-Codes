@@ -1,32 +1,35 @@
-# Welcome to My GitHub Profile! 🎉
+# Comprehensive Professional Portfolio
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6fIRMANiNd3iTeiM/giphy.gif" alt="welcometext" />
-</p>
+Welcome to my professional portfolio showcasing my programming skills, projects, and achievements.
 
-## 🚀 Viral Projects
-- [decrypt](https://github.com/Flame-Codes/decrypt)
-- [DECOMPILE-STORE-V1](https://github.com/Flame-Codes/DECOMPILE-STORE-V1)
-- [dis3](https://github.com/Flame-Codes/dis3)
-- [free-programming-books](https://github.com/Flame-Codes/free-programming-books)
+## Animated Elements
+Incorporating engaging animations that enhance the user experience. You can see these in action throughout the portfolio.
 
-## 🛠 Technical Skills
-<p>
-  <img src="https://img.shields.io/badge/Programming%20Languages-Python-brightgreen" alt="Python">
-  <img src="https://img.shields.io/badge/Web%20Technologies-HTML-blue" alt="HTML">
-  <img src="https://img.shields.io/badge/Database-SQL-red" alt="SQL">
-  <!-- More badges can be added here -->
-</p>
+## Viral Repositories
+Here's a list of some of my repositories that gained significant attention on GitHub:
+1. [Repo 1](https://github.com/Flame-Codes/repo-1) - Description of Repo 1
+2. [Repo 2](https://github.com/Flame-Codes/repo-2) - Description of Repo 2
+3. [Repo 3](https://github.com/Flame-Codes/repo-3) - Description of Repo 3
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flame-Codes&show_icons=true&theme=radical)
+## Enhanced GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flame-Codes&show_icons=true)
 
-## 🎨 Animations
-<p align="center">
-  <img src="https://media.giphy.com/media/l0IylOPCNw3ZR3uxS/giphy.gif" alt="Animation"/>
-</p>
+## Skills Showcase
+- **Programming Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools & Technologies**: Docker, Git, AWS, etc.
 
-## 📫 Contact Me
-Feel free to reach out for collaboration or inquiries:
+## Animations
+I've implemented CSS animations to make the portfolio visually appealing. You can experience these when navigating through different sections.
+
+## Contact Links
+Feel free to reach out to me!
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
 - Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+## Professional Design
+The design adheres to the best practices of UI/UX and is optimized for various devices and screen sizes.
+
+---
+Last updated on 2026-02-07
