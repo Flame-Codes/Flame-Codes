@@ -1,17 +1,32 @@
-# Professional Portfolio
+# Welcome to My GitHub Profile! 🎉
 
-Welcome to my professional portfolio! Here, you'll find a showcase of my viral repositories, animations, and modern design projects.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6fIRMANiNd3iTeiM/giphy.gif" alt="welcometext" />
+</p>
 
-## Viral Repositories
-- [Repository 1](link-to-repo-1) - Brief description of what makes it viral.
-- [Repository 2](link-to-repo-2) - Brief description of what makes it viral.
+## 🚀 Viral Projects
+- [decrypt](https://github.com/Flame-Codes/decrypt)
+- [DECOMPILE-STORE-V1](https://github.com/Flame-Codes/DECOMPILE-STORE-V1)
+- [dis3](https://github.com/Flame-Codes/dis3)
+- [free-programming-books](https://github.com/Flame-Codes/free-programming-books)
 
-## Animations
-- [Animation Project 1](link-to-animation-1) - Description of the project.
-- [Animation Project 2](link-to-animation-2) - Description of the project.
+## 🛠 Technical Skills
+<p>
+  <img src="https://img.shields.io/badge/Programming%20Languages-Python-brightgreen" alt="Python">
+  <img src="https://img.shields.io/badge/Web%20Technologies-HTML-blue" alt="HTML">
+  <img src="https://img.shields.io/badge/Database-SQL-red" alt="SQL">
+  <!-- More badges can be added here -->
+</p>
 
-## Modern Design
-- [Design Project 1](link-to-design-1) - Description of the design.
-- [Design Project 2](link-to-design-2) - Description of the design.
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flame-Codes&show_icons=true&theme=radical)
 
-Feel free to explore and reach out for collaboration or inquiries!
+## 🎨 Animations
+<p align="center">
+  <img src="https://media.giphy.com/media/l0IylOPCNw3ZR3uxS/giphy.gif" alt="Animation"/>
+</p>
+
+## 📫 Contact Me
+Feel free to reach out for collaboration or inquiries:
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
