@@ -61,8 +61,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Flame-codes/Flame-codes/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Flame-codes/Flame-codes/main/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
+</p>
 
 ###
